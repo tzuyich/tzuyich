@@ -36,13 +36,13 @@
 <a href="https://github.com/tzuyich"><img alt="Figma" src="https://img.icons8.com/color/344/figma--v1.png" width="44px"></a>
 </p>
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=tzuyich&show_icons=true&theme=omni&hide=contribs" width="800">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tzuyich&repo=tzuyich&theme=omni&Text=FFFFFF" width="400">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tzuyich&repo=rabbitmart&theme=omni&Text=FFFFFF" width="400">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tzuyich&repo=business-website&theme=omni&Text=FFFFFF" width="400">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tzuyich&repo=startup-website&theme=omni&Text=FFFFFF" width="400">
+<img src="https://github-readme-stats.sigma-five.vercel.app/api?username=tzuyich&show_icons=true&theme=omni&hide=contribs" width="800">
+<img src="https://github-readme-stats.sigma-five.vercel.app/api/pin/?username=tzuyich&repo=tzuyich&theme=omni&Text=FFFFFF" width="400">
+<img src="https://github-readme-stats.sigma-five.vercel.app/api/pin/?username=tzuyich&repo=rabbitmart&theme=omni&Text=FFFFFF" width="400">
+<img src="https://github-readme-stats.sigma-five.vercel.app/api/pin/?username=tzuyich&repo=business-website&theme=omni&Text=FFFFFF" width="400">
+<img src="https://github-readme-stats.sigma-five.vercel.app/api/pin/?username=tzuyich&repo=startup-website&theme=omni&Text=FFFFFF" width="400">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tzuyich&theme=omni&row=1&column=4&margin-w=5" />
+  <img src="https://github-profile-trophy.sigma-five.sigma-five.vercel.app/?username=tzuyich&theme=omni&row=1&column=4&margin-w=5" />
 </p>  

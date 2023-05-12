@@ -37,7 +37,6 @@
 </p>
 <p align="center"> 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tzuyich&show_icons=true&theme=omni&hide=contribs" width="800">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tzuyich&langs_count=20&layout=compact&theme=omni" width="800">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tzuyich&repo=tzuyich&theme=omni&Text=FFFFFF" width="400">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tzuyich&repo=rabbitmart&theme=omni&Text=FFFFFF" width="400">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tzuyich&repo=business-website&theme=omni&Text=FFFFFF" width="400">

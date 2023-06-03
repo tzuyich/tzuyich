@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=1&height=260&section=header&text=TzuYi%20Ch&fontSize=70&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=51&descAlign=62" width=100%>
+
  
 
 <center>
